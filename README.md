@@ -7,4 +7,6 @@ Código de fácil entendimento, aos novos e futuros programadores para que seja 
 
 -https://www.python.org/downloads/
 
-E tenham realizado a importação do Selenium via terminal, MAC, LINUX ou Windows. 
+Realizar o dowload do chormedrive.exe e extrair para a pasta do código
+
+Realizar a importação do Selenium via terminal, MAC, LINUX ou Windows. 
